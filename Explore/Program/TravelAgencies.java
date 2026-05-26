@@ -16,7 +16,8 @@ public class TravelAgencies {
     }
 
     // ✅ Default Constructor
-    public TravelAgencies() {}
+    public TravelAgencies() {
+    }
 
     // ✅ Getters
     public int getRegNo() {
